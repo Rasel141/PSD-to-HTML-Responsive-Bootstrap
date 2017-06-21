@@ -1,0 +1,32 @@
+@media screen and (max-width:320px){
+.sameservice{
+	margin-right:20px;
+}
+.button-group .button {
+    
+	margin-bottom: 10px;
+}
+.ouraddress {
+    max-width: 290px;
+
+}
+.address {
+    background: url(../img/map.png) no-repeat scroll 33px 4px;
+    padding-left: 44px;
+}
+.phone {
+    background: url(../img/phone.png) no-repeat scroll 82px 4px;
+    padding-left: 100px;
+}
+.footersection p {
+    padding: 28px;
+}
+#scroll-Top i {
+    font-size: 30px;
+    padding: 14px;
+    margin-left: 8px;
+}
+
+
+
+}
